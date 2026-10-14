@@ -4,7 +4,7 @@ A responsive personal portfolio website showcasing my education, technical skill
 
 ## 🌐 Live Demo
 
-- **Portfolio:** [Add your GitHub Pages URL here](https://madhur2005-coder.github.io/madhur-portfolio/)
+- **Portfolio:** [link](https://madhur2005-coder.github.io/madhur-portfolio/)
 - **GitHub Profile:** [Madhur2005-coder](https://github.com/Madhur2005-coder)
 
 ## ✨ Features
